@@ -1,0 +1,20 @@
+<?xml version = "1.0"?>
+<class>
+   <student number = "876982">
+      <firstname>Ajinkya</firstname>
+      <lastname>Bhosale</lastname>
+      <grade>95</grade>
+   </student>
+   
+   <student number = "388753">
+      <firstname>Japman</firstname>
+      <lastname>Nagra</lastname>
+      <grade>94</grade>
+   </student>
+   
+   <student number = "69253">
+      <firstname>Someone</firstname>
+      <lastname>Else</lastname>
+      <grade>90</grade>
+   </student>
+</class>
